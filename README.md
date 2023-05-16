@@ -9,6 +9,7 @@ Apache Spark is a unified analytics engine for large-scale data processing. It p
 **Table of contents**
 - [Spark Overview](#spark-overview)
 - [Focus](#focus)
+- [Language](#language)
 - [Library](#library)
 - [Getting started](#getting-started)
 - [References](#references)
@@ -17,18 +18,29 @@ Apache Spark is a unified analytics engine for large-scale data processing. It p
 ## Focus
 Quickly introduction of the most common functions using Python API, with hands-on examples.
 
+## Language
+- Python  3.9.12
+
 ## Library
-- Pandas
-- Streamlit
-- Requests  
-- BeautifulSoup
-- Time
-- Math
+- Pyspark 3.4.0
+- Pandas  2.0.1
 
 ## Getting started
 
+**Contents**
+- [Spark Overview](#spark-overview)
+- [Focus](#focus)
+- [Library](#library)
+- [Getting started](#getting-started)
+- [References](#references)
+- [Author](#author)
 
 
+|  Name|Age|Experience|
+|:----:|:-:|:--------:|
+| Summy| 31|        10|
+|  Anna| 30|         8|
+|Amanda| 29|         4|
 
 ## References 
 - [Documentation](https://spark.apache.org/docs/latest/api/python/index.html)
